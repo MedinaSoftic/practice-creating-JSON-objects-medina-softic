@@ -1,0 +1,25 @@
+[
+    {"title": "Howl's Moving Castle",
+    "year": 2004,
+    "Ratings":[{
+                "Reviewer": "IMDb",
+                "Rate": 8.2
+                },
+                {
+                "Reviewer": "IMDb",
+                "Rate": 8.2
+                }
+            ],
+    "isAvailable": true,
+    "genres":["Anime", "War", "Romance"],
+    "cast":[{
+            "Name": "Jean Simmons",
+            "Role": "Grandma Sophie"
+            },
+            {
+            "Name": "Christian Bale",
+            "Role": "Howl"
+            }
+        ]
+    } 
+]
